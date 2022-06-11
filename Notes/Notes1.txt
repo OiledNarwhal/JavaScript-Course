@@ -1,0 +1,5 @@
+JS Strict Mode: 
+Write at the beginning of the script: 'use strict' it must be the very first code piece of the script.
+
+Strict Mode forbids certain features. (Reserved words.)
+Strict mode creates visible errors for things that default JS would fail silently. (Undefined variables, etc.)
